@@ -1,0 +1,9 @@
+.\sensorinput.o: SensorInput.c
+.\sensorinput.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\sensorinput.o: C:\Keil\ARM\ARMCC\bin\..\include\stdbool.h
+.\sensorinput.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/tm4c123gh6pm.h
+.\sensorinput.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc/hw_memmap.h
+.\sensorinput.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib/sysctl.h
+.\sensorinput.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib/gpio.h
+.\sensorinput.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib/adc.h
+.\sensorinput.o: Globals_and_Defines.h
